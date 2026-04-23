@@ -42,7 +42,7 @@ FOR BASIC and SUSFS (SUKISU,RESUKI) VARIAN HAVE SUPPORT KPM
 
 ## ⚠️ Notes
 * **Flash at your own risk.** Always backup your `boot.img`.
-* **Compatibility:** Not support CLO base (YAAP/Neoteric).
+* **Compatibility:** Not support CLO base (Neoteric).
 * Support HyperOS 3.0.X (Trinuca). Not support 2.0.X (Trinuca).
 * **Bug Report:** No logs = No fix.
 
