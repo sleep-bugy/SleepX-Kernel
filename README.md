@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Changelogs
+## Changelogs
 ### Core System
 * **Upstream:** Google 6.1.166 LTS
 * **Compiler:** XClang LLVM 22.1.2
@@ -28,8 +28,8 @@
 
 ---
 
-## 🧬 Variants Information
-Kernel ini hadir dengan dukungan **KPM** untuk varian Basic dan SUSFS:
+## Variants Information
+FOR BASIC and SUSFS (SUKISU,RESUKI) VARIAN HAVE SUPPORT KPM
 * **KSUN:** (v33133)
 * **SUKISU:** (v40750)
 * **RESUKISU:** (v34832)
@@ -46,7 +46,7 @@ Kernel ini hadir dengan dukungan **KPM** untuk varian Basic dan SUSFS:
 ## ⚠️ Notes
 * **Flash at your own risk.** Always backup your `boot.img`.
 * **Compatibility:** Not support CLO base (YAAP/Neoteric).
-* **HyperOS:** Support HyperOS 3.0.X (Trinuca). Not support 2.0.X.
+* Support HyperOS 3.0.X (Trinuca). Not support 2.0.X (Trinuca).
 * **Bug Report:** No logs = No fix.
 
 ---
