@@ -9,20 +9,17 @@
 ---
 
 ## Changelogs
-### Core System
 * **Upstream:** Google 6.1.166 LTS
 * **Compiler:** XClang LLVM 22.1.2
 * **Networking:** BBRplus, BBRv3, TCP Brutal, & TCP Fast Open
 * **Feature:** NTSync, Wireguard, ADIOS I/O Scheduler
 * **Memory:** Backport per-memcg reclaim & vmpressure optimization
-
-### Xiaomi & Power Features
 * **Charging:** Implement `charging_enabled` node & fastcharge mode 1 detection
 * **Hardware:** Dual fuel gauge support (SLAVE_CHIP guard)
 * **Touch/Display:** New Xiaomi touch driver header, fold_status support, & FOD finger state node
 * **Misc:** Added software_cid, screen_cctog, reverse_quick_charge, and cloud_dynamic_shutdown nodes
 
-### Performance Profile
+## Performance Version
 * **Default Governor:** Performance
 * **Optimization:** Sched Fair Equalize Asym Priority & Schedutil Amend Pending Freq
 
